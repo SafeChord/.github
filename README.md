@@ -22,6 +22,6 @@ The full system map, design decisions (ADRs), and how the four layers fit togeth
 - **GitOps** delivery (ArgoCD); **zero-trust** ingress (split public / private planes)
 - **Observability** with Prometheus / Loki / Grafana
 - Live and self-running today, fully documented as an open knowledge base (**KDD**)
-- 
+
 ---
 Built & operated by **Brady Hau (陳建豪)** · [LinkedIn](https://www.linkedin.com/in/rebodutchman/) · [Knowledge Base](https://safechord.github.io/Docs)
